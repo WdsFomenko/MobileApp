@@ -1,0 +1,22 @@
+export default {
+  WELCOME_PAGE_SLOGAN: 'RENTAL BUS FOR YOUR GROUP IN 1 CLICK',
+  WELCOME_PAGE_SUB_SLOGAN: '* IMMEDIATE OFFER *',
+  GET_STARTED: 'GET STARTED',
+  WELCOME_SCREEN_TITLE: 'WELCOME AND GET STARTED',
+  MAIN_FORM_SCREEN_TITLE: 'YOUR IMMEDIATE OFFER',
+  RESULT_DATA_SCREEN_TITLE: 'SUMMARY OF YOUR JOURNEY',
+  RESULT_MAP_SCREEN_TITLE: 'YOUR JOURNEY ON MAP',
+  GET_MY_QUOTE: 'GET DIRECTIONS',
+  CHOOSE_YOUR_TYPE_OF_ROUTE: 'Chose your type of trip',
+  ONE_WAY: 'One way trip',
+  SEVERAL_DAYS_TRIP: 'Trip over several days',
+  RETURN_TRIP: 'Return trip, identical return address',
+  ROUND_TRIP: 'Round trip, different return address',
+  RECALCULATE: 'RECALCULATE',
+  PASSENGERS: 'Passengers',
+  WITH_LUGGAGE: 'With luggage',
+  COMFORT: 'COMFORT',
+  STANDART: 'Standart',
+  EXCURSION: 'Excursion',
+  TOURIST: 'Grand tourist'
+};
